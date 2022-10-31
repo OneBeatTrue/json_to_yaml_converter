@@ -1,0 +1,3 @@
+[submodule "quad_function"]
+	path = quad_function
+	url = https://github.com/OneBeatTrue/quad_function
